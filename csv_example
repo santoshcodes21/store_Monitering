@@ -1,0 +1,4 @@
+store_id,uptime_last_hour,downtime_last_hour,uptime_last_day,downtime_last_day,uptime_last_week,downtime_last_week
+1,44.00,16.00,8.00,16.00,35.00,49.00
+2,60.00,0.00,24.00,0.00,168.00,0.00
+3,0.00,60.00,0.00,24.00,0.00,168.00
